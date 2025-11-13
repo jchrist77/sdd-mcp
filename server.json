@@ -1,19 +1,19 @@
 {
   "$schema": "https://static.modelcontextprotocol.io/schemas/2025-09-16/server.schema.json",
-  "name": "io.github.formulahendry/spec-driven-development",
-  "description": "MCP Server that facilitates spec-driven development workflows, not just Vibe Coding.",
+  "name": "io.github.jchrist77/sdd-mcp",
+  "description": "MCP Server that facilitates spec-driven development workflows.",
   "status": "active",
   "repository": {
-    "url": "https://github.com/formulahendry/mcp-server-spec-driven-development",
+    "url": "https://github.com/jchrist77/sdd-mcp",
     "source": "github"
   },
-  "version": "0.1.1",
+  "version": "0.1.0",
   "packages": [
     {
       "registryType": "npm",
       "registryBaseUrl": "https://registry.npmjs.org",
-      "identifier": "mcp-server-spec-driven-development",
-      "version": "0.1.1",
+      "identifier": "sdd-mcp",
+      "version": "0.1.0",
       "transport": {
         "type": "stdio"
       }
