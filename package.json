@@ -1,12 +1,12 @@
 {
-  "name": "mcp-server-spec-driven-development",
-  "version": "0.1.1",
-  "mcpName": "io.github.formulahendry/spec-driven-development",
+  "name": "sdd-mcp",
+  "version": "0.1.0",
+  "mcpName": "io.github.jchrist77/sdd-mcp",
   "author": "Jun Han",
   "description": "Spec-Driven Development MCP Server",
   "type": "module",
   "bin": {
-    "mcp-server-spec-driven-development": "dist/index.js"
+    "sdd-mcp": "dist/index.js"
   },
   "scripts": {
     "build": "tsc && shx chmod +x dist/index.js",
@@ -22,7 +22,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/formulahendry/mcp-server-spec-driven-development.git"
+    "url": "https://github.com/jchrist77/sdd-mcp.git"
   },
   "license": "MIT",
   "dependencies": {
